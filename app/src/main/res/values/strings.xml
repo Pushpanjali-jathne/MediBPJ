@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MediBuddyTest</string>
+
+    <array name="SpinnerGender">
+
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+
+
+
+</resources>
